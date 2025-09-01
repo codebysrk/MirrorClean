@@ -56,7 +56,8 @@ python gui.py
 
 ## 📸 Screenshots
 
-*(Add screenshots here to showcase the GUI)*
+*![MirrorClean GUI](https://github.com/codebysrk/MirrorClean/blob/main/assets/mirror-clean.png?raw=true)
+*
 
 ---
 
