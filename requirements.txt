@@ -1,0 +1,5 @@
+tkcalendar==1.7.9  # Optional: if you use calendar widgets (remove if not used)
+# Standard Python libraries used by MirrorClean are built-in, so no need to list them:
+# hashlib, shutil, os, logging, threading, datetime, tkinter
+
+# If you are using Python 3.10+ or 3.11, tkinter comes pre-installed, no extra packages needed
